@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "EchoWall",
+    "slug": "echowall",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0B0B14",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0B0B14"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "backgroundColor": "#0B0B14"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0B0B14"
+      }
+    },
+    "web": {
+      "backgroundColor": "#0B0B14"
+    },
+    "plugins": [
+      "@react-native-community/datetimepicker"
+    ]
+  }
+}
